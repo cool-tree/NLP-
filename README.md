@@ -5,3 +5,4 @@
 3.论文：RSS订阅，Zotero
 4.项目：
 5.比赛：kaggle，天池
+6.工具：GitHub，anaconda
