@@ -6,3 +6,4 @@
 4.项目：
 5.比赛：kaggle，天池
 6.工具：GitHub，anaconda
+7.系统：linux
